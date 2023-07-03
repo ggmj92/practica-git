@@ -1,4 +1,7 @@
 body{
-    background: black;
-    color :red
+    background: yellow;
+    color :black
     }
+h1{
+    font-size: 3rem;
+}
